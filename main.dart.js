@@ -27738,7 +27738,7 @@ return s},
 IK(){var s=0,r=A.L(t.H),q,p,o,n,m,l,k
 var $async$IK=A.G(function(a,b){if(a===1)return A.I(b,r)
 while(true)switch(s){case 0:s=2
-return A.E($.azy().A0(".env"),$async$IK)
+return A.E($.azy().A0("../assets/.env"),$async$IK)
 case 2:q=$.azy()
 if(!q.a)A.a4(new A.MW())
 $.aAJ.b=q.b
