@@ -1,0 +1,20 @@
+{
+  "firebase": {
+    "web": {
+      "apiKey": "AIzaSyC93gVxzTRVvfhNI6xlSxX9cddI9NICztI",
+      "authDomain": "hti-databaseapp.firebaseapp.com",
+      "projectId": "hti-databaseapp",
+      "storageBucket": "hti-databaseapp.firebasestorage.app",
+      "messagingSenderId": "849953701299",
+      "appId": "1:849953701299:web:2d55cf6d82adc2064d9fc6",
+      "measurementId": "G-7RRSTZNB1H"
+    },
+    "android": {
+      "apiKey": "AIzaSyBswr5jyHsZonZN_yzqI2c2d6AiHynkP6Y",
+      "appId": "1:849953701299:android:2d55cf6d82adc2064d9fc6",
+      "messagingSenderId": "849953701299",
+      "projectId": "hti-databaseapp",
+      "storageBucket": "hti-databaseapp.firebasestorage.app"
+    }
+  }
+}
