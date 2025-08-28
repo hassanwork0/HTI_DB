@@ -25,4 +25,4 @@
 
 ---
 
-🔗 *Empowering HTI students to achieve academic excellence*  
+🔗 *Empowering HTI students to achieve academic excellences*  
